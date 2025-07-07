@@ -37,7 +37,7 @@ To determine whether the new landing page leads to a statistically significant i
 
 ## Methodology
 
-### ✅ Steps:
+### Steps:
 1. **Cleaned and merged** the datasets.
 2. **Removed mismatches** where control users saw the new page or treatment users saw the old page.
 3. **Removed duplicate user entries** to avoid biased results.
@@ -83,7 +83,7 @@ The new landing page **does not significantly improve conversions**, and there's
 ---
 
 ## Project Structure
-
+```
 AB-Test-Analysis
 │
 ├── data
@@ -92,6 +92,7 @@ AB-Test-Analysis
 │
 ├── AB-Test-Analysis.ipynb
 └── README.md
+```
 
 
 ---
