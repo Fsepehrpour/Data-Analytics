@@ -111,5 +111,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Contact
 
-Feel free to contact via (LinkedIn)[www.linkedin.com/in/fatemeh-sepehrpour-012982ba] or (Email)[fatemeh.sepehrpour@proton.me]
+Feel free to contact via [LinkedIn](www.linkedin.com/in/fatemeh-sepehrpour-012982ba) or [Email](fatemeh.sepehrpour@proton.me)
 
